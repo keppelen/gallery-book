@@ -1,0 +1,45 @@
+$icon-font-path: "/bower_components/sass-bootstrap/fonts/";
+@import 'sass-bootstrap/lib/bootstrap';
+
+body {
+    background: #f7f7f7;
+}
+
+.header {
+    background: #563D7C;
+    padding: 30px 0 20px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.title {
+    font-size: 80px;
+    color: #FFF;
+}
+
+.search {
+    padding: 10px;
+    border: 1px solid #f6f6f6;
+    font-size: 18px;
+    font-weight: normal;
+    width: 100%;
+    border: 15px solid #563D7C;
+    border-radius: 3px;
+}
+
+.table {
+    margin-top: -1px;
+
+    thead {
+        background: #463265;
+        color: #FFF;
+    }
+
+    .center {
+        text-align: center;
+    }
+
+    .i-want {
+        width: 7%;
+    }
+}
