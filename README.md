@@ -8,9 +8,9 @@ Gallery Book
 
 ## Geting Started
 
-1 - install `npm install && bower install`
-2 - Run `grunt serve`
-3 - Access [http://localhost:9000/](http://localhost:9000/)
+1. Install: `npm install && bower install`
+2. Run: `grunt server`
+3. Access [http://localhost:9000/](http://localhost:9000/)
 
 ## Dependencies
 
