@@ -1,16 +1,14 @@
 Gallery Book
 ============
 
-> Gallery of books for my friends :)
-
-## Gallery Book
-> [Check it live](http://labs.bygiovanni.com.br/gallery-book)
+> Gallery of books for my friends :) - [Check it live](http://labs.bygiovanni.com.br/gallery-books/#/)
 
 ## Geting Started
 
 1. Install: `npm install && bower install`
 2. Run: `grunt server`
 3. Access [http://localhost:9000/](http://localhost:9000/)
+
 
 ## Dependencies
 
